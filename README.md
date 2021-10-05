@@ -1,2 +1,2 @@
 # ff
-[Текст ссылки](https://xyvl.github.io/src/ "Описание")
+[Текст ссылки](https://xyvl.github.io/pp/ "Описание")
